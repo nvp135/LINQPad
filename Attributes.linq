@@ -1,4 +1,6 @@
-<Query Kind="Program" />
+<Query Kind="Program">
+  <RuntimeVersion>3.1</RuntimeVersion>
+</Query>
 
 void Main()
 {
